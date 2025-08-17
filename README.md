@@ -1,5 +1,8 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 [![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue)](https://ridhii17.github.io/3D-Cube-Game/)
+![GitHub Repo stars](https://img.shields.io/github/stars/ridhii17/3D-Cube-Game?style=social)
+![GitHub forks](https://img.shields.io/github/forks/ridhii17/3D-Cube-Game?style=social)
+![GitHub issues](https://img.shields.io/github/issues/ridhii17/3D-Cube-Game)
 
 # 🧊 3D Cube Puzzle Game
 
