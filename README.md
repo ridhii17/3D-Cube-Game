@@ -5,6 +5,16 @@ Play directly in your browser and test your cube-solving skills!
 
 ---
 
+## 🌐 Live Demo
+👉 [Play the game here!](https://ridhii17.github.io/3D-Cube-Game/)
+
+---
+
+## 📸 Project Preview
+![3D Cube Game Screenshot](screenshot.png)
+
+---
+
 ## ✨ Features
 - 🌀 Interactive 3D cube with smooth animations  
 - ⏱️ Timer & statistics tracking (best time, average times)  
