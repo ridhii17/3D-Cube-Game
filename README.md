@@ -1,3 +1,6 @@
+![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
+[![Live Demo](https://img.shields.io/badge/Live%20Demo-Click%20Here-blue)](https://ridhii17.github.io/3D-Cube-Game/)
+
 # 🧊 3D Cube Puzzle Game
 
 A **3D cube puzzle game** built with [Three.js](https://threejs.org/).  
